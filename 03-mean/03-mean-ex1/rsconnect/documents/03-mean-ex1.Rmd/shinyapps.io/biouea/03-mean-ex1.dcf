@@ -1,0 +1,12 @@
+name: 03-mean-ex1
+title: 03-mean-ex1
+username:
+account: biouea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5658756
+bundleId: 5597001
+url: https://biouea.shinyapps.io/03-mean-ex1/
+when: 1645273315.5272
+asMultiple: FALSE
+asStatic: FALSE

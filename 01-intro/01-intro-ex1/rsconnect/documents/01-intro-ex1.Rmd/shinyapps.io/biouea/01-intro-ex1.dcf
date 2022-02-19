@@ -1,0 +1,12 @@
+name: 01-intro-ex1
+title: 01-intro-ex1
+username:
+account: biouea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5424598
+bundleId: 5590661
+url: https://biouea.shinyapps.io/01-intro-ex1/
+when: 1645120447.30801
+asMultiple: FALSE
+asStatic: FALSE

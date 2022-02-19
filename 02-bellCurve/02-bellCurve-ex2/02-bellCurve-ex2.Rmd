@@ -2,7 +2,7 @@
 output: 
   html_document:
     includes:
-      in_header: test1.html
+      before_body: test1.html
 runtime: shiny_prerendered
 ---
 

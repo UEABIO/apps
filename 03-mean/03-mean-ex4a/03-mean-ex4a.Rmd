@@ -19,7 +19,7 @@ heights_island1 <- rnorm(50,10,2)
 # Complete the code below to create your own function that will calculate the median of any vector
 
 my_median <- function(vector){
-  if( ){
+  if{
    
   }else{ 
    
